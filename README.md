@@ -80,4 +80,4 @@ The API provides appropriate HTTP status codes for various scenarios (e.g., 200 
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/jiammngpng/ProductManagementAPI/blob/master/LICENSE.txt) file for details.
